@@ -1,6 +1,7 @@
 {
   "name": "02-create-react-app-example",
   "version": "0.1.0",
+  "homepage": "https://aldyadk.github.io/example-music-quiz-typescript/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
